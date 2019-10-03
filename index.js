@@ -27,8 +27,7 @@ const k_muppet = {
 
 // Strings
 
-// 1. Use destructuring to assign appropriate variables based on the sounds animals make.
-
+// 1. Use destructuring to assign appropriate variables based on the sounds animals make
   const [moo] = farmAnimals.plit(' ');
   console.log(moo)
 // 2. Bolt the horse wandered off, so just give us four animals, and let's name them Bessie, Dolly, Babe, and Little.
