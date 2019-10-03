@@ -57,11 +57,11 @@ const k_muppet = {
 // 7. Use destructuring to assign all appropriate variables using the keys as the variable names
   
   const muppet = {
-  name: 'Kermit',
-  color: 'green',
-  song: 'The Rainbow Connection',
-  job: 'Host of The Muppet Show',
-  partner: 'Miss Piggy'
+  name:,
+  color:,
+  song,
+  job,
+  partner
 };
 
 
